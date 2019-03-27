@@ -1,5 +1,6 @@
 import React from 'react'
 import Content from '../Content'
+import ExcoList from '../ExcoList'
 import PropTypes from 'prop-types'
 
 const AboutPageTemplate = ({title, content, contentComponent}) => {
