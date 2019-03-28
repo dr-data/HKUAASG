@@ -15,7 +15,10 @@ const NavBar = ({toggleNavbar, isActive}) => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            <strong> <img src={withPrefix('./assets/img/hkuicon.png')} alt="Logo" /> HKUAASG 🇸🇬 </strong> 
+            <img className='navbar-logo-content' src='https://github.com/dr-data/HKUAASG/raw/master/src/assets/img/hkuicon.png' alt="Logo" />
+            <div className='navbar-logo'>
+            <strong>  HKUAASG 🇸🇬 </strong> 
+            </div>
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
