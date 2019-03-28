@@ -40,13 +40,13 @@ const NavBar = ({toggleNavbar, isActive}) => (
             <Link className='navbar-item' to='/blog'>
                             Blog
             </Link>
-            <Link className='navbar-item' to='/Membership'>
+            <Link className='navbar-item' to='/membership'>
                             Membership
             </Link>
-            <Link className='navbar-item' to='/Activity'>
+            <Link className='navbar-item' to='/activity'>
                             Activities
             </Link>
-            <Link className='navbar-item' to='/UsefulLink'>
+            <Link className='navbar-item' to='/usefullink'>
                             Useful Link
             </Link>
             <div className='navbar-item'>
