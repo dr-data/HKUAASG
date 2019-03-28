@@ -51,7 +51,7 @@ export default class ActivityPage extends Component {
                 <div className='column is-10 is-offset-1'>
                   <div className='section'>
                     <h1 className='title'>
-                      Activity
+                      Activities
                     </h1>
                   </div>
                 </div>
