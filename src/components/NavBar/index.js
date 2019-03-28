@@ -43,11 +43,8 @@ const NavBar = ({toggleNavbar, isActive}) => (
             <Link className='navbar-item' to='/Membership'>
                             Membership
             </Link>
-            <Link className='navbar-item' to='/Activities'>
+            <Link className='navbar-item' to='/Activity'>
                             Activities
-            </Link>
-            <Link className='navbar-item' to='/PastActivities'>
-                            Past Activities
             </Link>
             <Link className='navbar-item' to='/UsefulLink'>
                             Useful Link
