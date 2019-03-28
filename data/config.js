@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'HKUAA Singapore Cheapter', // Site title.
+  siteTitle: 'HKUAA Singapore Cheapter 🇸🇬', // Site title.
   siteTitleAlt: 'HKUAA Singapore Cheapter', // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://gatsby-starter-business.netlify.com', // Domain of your website without pathPrefix.

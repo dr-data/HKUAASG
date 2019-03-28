@@ -3,36 +3,18 @@ templateKey: about-page
 title: About Us
 meta_title: About Us | HKUAA Singapore Chapter
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+
 ---
-## Lorem ipsum dolor sit amet, consectetuer
+## About The University of Hong Kong Alumni Association Singapore Chapter
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa 
-quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-
-##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
-
-Nullam dictum felis eu pede mollis 
-pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra 
-quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
-Etiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas 
-tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
-Nam quam nunc, blandit vel, luctus pulvinar
-
-###Curabitur ullamcorper ultricies nisi.
-
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. 
-Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, 
-augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, 
-mollis sed, nonummy id, metus. 
-* Cras ultricies mi eu turpis hendrerit fringilla. 
-* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
-* In ac dui quis mi consectetuer lacinia.
-
-**Etiam ultricies nisi vel augue!**
+The University of Hong Kong Alumni Association in Singapore was formed in 1946 by graduates of the University who returned to Singapore and some graduates from Hong Kong who had come to Singapore to settle down. It was officially registered as a Society in 1960.
+ 
+Enrolment of students from Singapore into the University had in fact begun in the mid 1910s, shortly after the University was founded in 1911. Singapore students then mainly pursued courses in medicine and engineering.
+ 
+There was a regular flow of students from Singapore into the University from those early days until 1941, and an even greater increase immediately after World War II. The flow ceased with the establishment and expansion of universities in the region in the early 60s.
+ 
+Membership number has been around 200 for many years. The newer and younger members are mostly graduates from Hong Kong University who grew up and lived in Hong Kong, but have moved to Singapore for work, and some have decided to make Singapore their permanent home. They are from various faculties. 
+ 
+With the implementation of student exchange programme between HKU and the universities in Singapore - National University of Singapore (NUS), Nanyang Technological University (NTU), Singapore Management University (SMU), selected students from HKU are given the opportunity to attend courses for one or two semesters at universities in Singapore. Alumni Members volunteer as mentors for these students to give them guidance where necessary, to enrich their mentee's exchange experience and in a way to help in their educational, social and personal growth through a supportive mentor-mentee relationship. 
+ 
+Aims of the HKU Alumni Association in Singapore are, as they were in 1946, to foster closer ties among members, to maintain a link with the University, and to give assistance to students intending to proceed to the Hong Kong University for further studies. Functions include an annual dinner, joint activities with alumni associations of other universities from Hong Kong, and bi-monthly walks and F&B gathering to interesting venues.
