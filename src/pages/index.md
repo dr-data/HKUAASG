@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: HKUAA Singapore Chapter
+title: The University of Hong Kong Alumni Associaiton Singapore Chapter
 heading: HKUAA Singapore Chapter Heading
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,

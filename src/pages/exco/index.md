@@ -5,8 +5,9 @@ meta_title: Management Committee | HKUAA Singapore Chapter
 meta_description: test 3
 ---
 
-| President         | Mr. Eric Tse (ex-officio)         |
+| 2019-2020         | Management Committee Member List  |
 |-------------------|-----------------------------------|
+| President         | Mr. Eric Tse (ex-officio)         |
 | President-Elect   | Mr. Mel Tsoi                      |
 | Hon. Secretary    | Mr. Joe Cheung                    |
 | Hon. Treasurer    | Ms. Gloria Lo                     |

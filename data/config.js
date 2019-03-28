@@ -13,7 +13,7 @@ module.exports = {
   userTwitter: '',
   userLocation: 'Singaprore',
   userDescription: '',
-  copyright: 'Copyright © HKUAA Singapore Cheapter 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
-  themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
+  copyright: 'Copyright © HKUAA Singapore Cheapter 2019-2020. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
+  themeColor: '#4ebd88', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
 }
