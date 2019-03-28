@@ -34,7 +34,7 @@ const NavBar = ({toggleNavbar, isActive}) => (
             <Link className='navbar-item' to='/about'>
                             About
             </Link>
-            <Link className='navbar-item' to='/pricing'>
+            <Link className='navbar-item' to='/exco'>
                             Committee 
             </Link>
             <Link className='navbar-item' to='/blog'>
@@ -55,11 +55,12 @@ const NavBar = ({toggleNavbar, isActive}) => (
             <div className='navbar-item'>
               <div className='field is-grouped'>
                 <p className='control'>
-                  <Link
+{/*                   <Link
                     className='button is-primary is-outlined'
-                    to='/contact'>
+                    to='mailto:hkuaasg@hku.hk'>
                             Contact Us
-                  </Link>
+                  </Link> */}
+                  <a href="mailto:hkuaasg@hku.hk" className='button is-primary is-outlined'>Contact Us</a>
                 </p>
               </div>
             </div>
