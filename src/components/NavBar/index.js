@@ -68,4 +68,5 @@ const NavBar = ({toggleNavbar, isActive}) => (
   />
 )
 
+
 export default NavBar
