@@ -7,7 +7,7 @@ import PostCard from '../components/PostCard'
 const PaginationLink = props => {
   if (!props.test) {
     return (
-      <Link to={`/blog/${props.url}`} className='button is-rounded'>
+      <Link to={`/activity/${props.url}`} className='button is-rounded'>
         {props.text}
       </Link>
     )
@@ -20,7 +20,7 @@ const PaginationLink = props => {
   }
 }
 
-export default class BlogPage extends Component {
+export default class ActivityPage extends Component {
   render () {
     const {pageContext} = this.props
     const {group, index, first, last} = pageContext
@@ -38,7 +38,7 @@ export default class BlogPage extends Component {
     return (
       <div>
         <Helmet>
-          <title>Blog</title>
+          <title>Activity</title>
           {/* Schema.org tags */}
           <script type='application/ld+json'>
             {JSON.stringify(websiteSchemaOrgJSONLD)}
@@ -51,7 +51,7 @@ export default class BlogPage extends Component {
                 <div className='column is-10 is-offset-1'>
                   <div className='section'>
                     <h1 className='title'>
-                      Blog
+                      Activity
                     </h1>
                   </div>
                 </div>

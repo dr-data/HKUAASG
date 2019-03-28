@@ -79,7 +79,7 @@ const SE0 = ({ title, meta_title, meta_desc, cover, slug, date }) => {
       </script>
       {/* OpenGraph tags */}
       <meta property='og:url' content={postURL} />
-      <meta property='og:type' content='article' />
+      <meta property='og:type' content='activity' />
       <meta property='og:title' content={title} />
       <meta property='og:description' content={meta_desc} />
       <meta property='og:image' content={image} />

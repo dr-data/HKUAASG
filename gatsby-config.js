@@ -147,7 +147,7 @@ module.exports = {
               const rssMetadata = ctx.query.site.siteMetadata.rssMetadata
               return ctx.query.allMarkdownRemark.edges
                 .filter(
-                  edge => edge.node.frontmatter.templateKey === 'article-page'
+                  edge => edge.node.frontmatter.templateKey === 'activity-page'
                 )
                 .map(edge => ({
                   categories: edge.node.frontmatter.tags,

@@ -5,7 +5,7 @@ const PostCard = ({posts}) => {
   return (
     <div className='container'>
       {posts
-        .filter(post => post.node.frontmatter.templateKey === 'article-page')
+        .filter(post => post.node.frontmatter.templateKey === 'activity-page')
         .map(({node: post}) => (
           <div
             className='content'

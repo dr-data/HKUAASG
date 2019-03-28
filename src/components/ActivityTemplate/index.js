@@ -3,7 +3,7 @@ import Content from '../Content'
 import { kebabCase } from 'lodash'
 import { Link } from 'gatsby'
 
-const ArticleTemplate = ({
+const ActivityTemplate = ({
   content,
   contentComponent,
   cover,
@@ -38,4 +38,4 @@ const ArticleTemplate = ({
   )
 }
 
-export default ArticleTemplate
+export default ActivityTemplate

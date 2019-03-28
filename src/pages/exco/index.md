@@ -2,7 +2,7 @@
 templateKey: exco-page
 title: Management Committee
 meta_title: Management Committee | HKUAA Singapore Chapter
-meta_description: Management Committee of HKUAA Singapore Chapter
+meta_description: test 3
 ---
 ## About The University of Hong Kong Alumni Association Singapore Chapter
 

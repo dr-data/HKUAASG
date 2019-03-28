@@ -1,10 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import ArticleTemplate from '../../components/ArticleTemplate'
+import ActivityTemplate from '../../components/ActivityTemplate'
 
-const ArticlePreview = ({entry, widgetFor}) => {
+const ActivityPreview = ({entry, widgetFor}) => {
   return (
-    <ArticleTemplate
+    <ActivityTemplate
       content={widgetFor('body')}
       cover={entry.getIn(['data', 'cover'])}
       meta_title={entry.getIn(['data', 'meta_title'])}
@@ -15,11 +15,11 @@ const ArticlePreview = ({entry, widgetFor}) => {
   )
 }
 
-ArticlePreview.propTypes = {
+ActivityPreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
 }
 
-export default ArticlePreview
+export default ActivityPreview

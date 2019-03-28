@@ -37,9 +37,9 @@ exports.createPages = ({actions, graphql}) => {
     
     // Post pages:
     let posts = []
-    // Iterate through each post/page, putting all found posts (where templateKey = article-page) into `posts`
+    // Iterate through each post/page, putting all found posts (where templateKey = activity-page) into `posts`
     postsAndPages.forEach(edge => {
-      if (_.isMatch(edge.node.frontmatter, {'templateKey': 'article-page'})) {
+      if (_.isMatch(edge.node.frontmatter, {'templateKey': 'activity-page'})) {
         posts = posts.concat(edge)
       }
     })
@@ -47,9 +47,9 @@ exports.createPages = ({actions, graphql}) => {
     createPaginatedPages({
       edges: posts,
       createPage: createPage,
-      pageTemplate: 'src/templates/blog.js',
+      pageTemplate: 'src/templates/activity.js',
       pageLength: 6, // This is optional and defaults to 10 if not used
-      pathPrefix: 'blog', // This is optional and defaults to an empty string if not used
+      pathPrefix: 'activity', // This is optional and defaults to an empty string if not used
       context: {}, // This is optional and defaults to an empty object if not used
     })
     postsAndPages.forEach(edge => {

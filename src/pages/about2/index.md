@@ -1,9 +1,8 @@
 ---
-templateKey: about-page
-title: About Us
+templateKey: about2-page
+title: About3 Us
 meta_title: About Us | HKUAA Singapore Chapter
 meta_description: >-
-
 ---
 ## About The University of Hong Kong Alumni Association Singapore Chapter
 

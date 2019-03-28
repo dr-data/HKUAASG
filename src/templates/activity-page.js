@@ -2,12 +2,12 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import {graphql} from 'gatsby'
 import {HTMLContent} from '../components/Content'
-import ArticleTemplate from '../components/ArticleTemplate'
+import ActivityTemplate from '../components/ActivityTemplate'
 import SE0 from '../components/SEO'
 import Share from '../components/Share'
 import Disqus from '../components/Disqus'
 
-const ArticlePage = ({data}) => {
+const ActivityPage = ({data}) => {
   const {markdownRemark: post} = data
   return (
     <section className='section'>
@@ -21,7 +21,7 @@ const ArticlePage = ({data}) => {
       <div className='container content'>
         <div className='columns'>
           <div className='column is-10 is-offset-1'>
-            <ArticleTemplate
+            <ActivityTemplate
               content={post.html}
               contentComponent={HTMLContent}
               cover={post.frontmatter.cover}
@@ -47,16 +47,16 @@ const ArticlePage = ({data}) => {
   )
 }
 
-ArticlePage.propTypes = {
+ActivityPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 }
 
-export default ArticlePage
+export default ActivityPage
 
 export const pageQuery = graphql`
-  query ArticleByID($id: String!) {
+  query ActivityByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
