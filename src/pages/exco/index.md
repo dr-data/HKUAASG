@@ -1,8 +1,8 @@
 ---
 templateKey: exco-page
 title: Management Committee
-meta_title: Management Committee | HKUAA Singapore Chapter
-meta_description: test 3
+meta_title: 2018-2019 Management Committee | HKUAA Singapore Chapter
+meta_description: 2018-2019 Management Committee | HKUAA Singapore Chapter
 ---
 | 2019-2020             | Management Committee Members      |
 | --------------------- | --------------------------------- |
