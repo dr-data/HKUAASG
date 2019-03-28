@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link, graphql, StaticQuery} from 'gatsby'
+import {Link, graphql, StaticQuery, withPrefix} from 'gatsby'
 import SearchBox from '../SearchBox'
 
 const NavBar = ({toggleNavbar, isActive}) => (
@@ -10,12 +10,12 @@ const NavBar = ({toggleNavbar, isActive}) => (
                     index
                 }
             }
-        `}
+        `} 
     render={data => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            <strong>HKUAASG 🇸🇬</strong>
+            <strong> <img src={withPrefix('./assets/img/hkuicon.png')} alt="Logo" /> HKUAASG 🇸🇬 </strong> 
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
