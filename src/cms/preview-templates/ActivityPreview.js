@@ -22,4 +22,5 @@ ActivityPreview.propTypes = {
   widgetFor: PropTypes.func,
 }
 
+
 export default ActivityPreview
