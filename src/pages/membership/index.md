@@ -1,10 +1,10 @@
 ---
-templateKey: about2-page
-title: About3 Us
-meta_title: About Us | HKUAA Singapore Chapter
+templateKey: membership-page
+title: Membership
+meta_title: Membership | HKUAA Singapore Chapter
 meta_description: >-
 ---
-## About The University of Hong Kong Alumni Association Singapore Chapter
+## Membership
 
 The University of Hong Kong Alumni Association in Singapore was formed in 1946 by graduates of the University who returned to Singapore and some graduates from Hong Kong who had come to Singapore to settle down. It was officially registered as a Society in 1960.
  
