@@ -2,15 +2,15 @@ import CMS from 'netlify-cms'
 
 import HomePagePreview from './preview-templates/HomePagePreview'
 import AboutPagePreview from './preview-templates/AboutPagePreview'
+import About2PagePreview from './preview-templates/About2PagePreview'
 import ArticlePreview from './preview-templates/ArticlePreview'
 import PricingPagePreview from './preview-templates/PricingPagePreview'
 import ContactPagePreview from './preview-templates/ContactPagePreview'
 import ExcoPagePreview from './preview-templates/ExcoPagePreview'
 
-
-g
 CMS.registerPreviewStyle('/styles.css')
 CMS.registerPreviewTemplate('home', HomePagePreview)
+CMS.registerPreviewTemplate('about2', About2PagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('pricing', PricingPagePreview)
 CMS.registerPreviewTemplate('contact', ContactPagePreview)
