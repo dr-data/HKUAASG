@@ -38,7 +38,7 @@ export default class ActivityPage extends Component {
     return (
       <div>
         <Helmet>
-          <title>Activity</title>
+          <title>Activities</title>
           {/* Schema.org tags */}
           <script type='application/ld+json'>
             {JSON.stringify(websiteSchemaOrgJSONLD)}
