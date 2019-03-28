@@ -30,11 +30,11 @@ const ActivityPage = ({data}) => {
               tags={post.frontmatter.tags}
               title={post.frontmatter.title}
             />
-            <Share
+{/*             <Share
               title={post.frontmatter.title}
               slug={post.fields.slug}
               excerpt={post.frontmatter.meta_description}
-            />
+            /> */}
             <hr />
             <Disqus
               title={post.frontmatter.title}
