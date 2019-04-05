@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'gatsby'
 import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
@@ -45,9 +46,18 @@ const HomePageTemplate = ({
                     {heading}
                   </h3>
                   <p>{description}</p>
+                <div className='navbar-item'>
+                    <div className='field is-grouped'>
+                      <p className='control'>
+                        <Link className='navbar-item button is-primary is-outlined' to='/about'>
+                                        More Details
+                        </Link>
+                      </p>
+                    </div>
+                  </div>
                 </div>
                 <Offerings gridItems={offerings.blurbs} />
-                <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
+                <h2 className='has-text-weight-semibold is-size-2'>HKUAA Singapore Facebook Group</h2>
                 <Testimonials testimonials={testimonials} />
               </div>
             </div>

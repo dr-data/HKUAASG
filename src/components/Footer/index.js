@@ -9,9 +9,9 @@ const Footer = () => {
           <p>
             {config.copyright}
           </p>
-          <div class="columns content has-text-centered">
-            <div class="column is-half">Apply Free Membership</div>
-            <div class="column is-half">Facebook</div>
+          <div className='columns content has-text-centered'>
+            <div className='column is-half'>Apply Free Membership</div>
+            <div className='column is-half'>HKUAA SG Facebook Group</div>
           </div>
         </div>
       </div>
