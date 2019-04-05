@@ -9,7 +9,10 @@ const Footer = () => {
           <p>
             {config.copyright}
           </p>
-          {/* <p>Powered by <a href='https://www.gatsbyjs.org'>Gatsby</a> and <a href='https://www.netlifycms.org'>Netlify CMS</a> </p> */}
+          <div class="columns content has-text-centered">
+            <div class="column is-half">Apply Free Membership</div>
+            <div class="column is-half">Facebook</div>
+          </div>
         </div>
       </div>
     </footer>
